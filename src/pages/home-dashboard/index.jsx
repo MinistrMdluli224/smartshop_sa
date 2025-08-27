@@ -29,7 +29,6 @@ const HomeDashboard = () => {
 
     // Simulate loading current shopping list data
     const loadDashboardData = async () => {
-      // In real app, this would fetch from API or local storage
       // For now, using mock data defined above
     };
 
